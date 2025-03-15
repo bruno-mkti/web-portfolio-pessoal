@@ -1,2 +1,2 @@
 # Meu Portfólio de sites
-https://bruno-mkti.github.io/estrategista-digital/
+https://bruno-mkti.github.io/web-portfolio-pessoal
